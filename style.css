@@ -50,3 +50,14 @@ img {
     display: flex;
     flex: auto;
 }
+
+button {
+    width: 100px;
+    margin: 15px 0px;
+    padding: 5px 20px;
+    border-radius: 8px;
+    border: none;
+    color: #F9FAF8;
+    background-color: #3882F6;
+    font-weight: bold;
+}
