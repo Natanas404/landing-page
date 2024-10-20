@@ -27,10 +27,11 @@ img {
 }
 
 button {
-    width: 100px;
+    width: 125px;
     margin: 15px 0px;
-    padding: 5px 20px;
+    padding: 5px 25px;
     border-radius: 8px;
+    font-size: 18px;
     border: none;
     color: #F9FAF8;
     background-color: #3882F6;
@@ -107,4 +108,25 @@ h2 {
     font-size: 22px;
     font-weight: bold;
     align-self: flex-end;
+}
+
+.signing {
+    margin: 100px 200px;
+    border-radius: 8px;
+    padding: 40px 100px;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.action {
+    color: #F9FAF8;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.signing button {
+    border: 2px solid #F9FAF8;
 }
