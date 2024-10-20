@@ -130,3 +130,10 @@ h2 {
 .signing button {
     border: 2px solid #F9FAF8;
 }
+
+.footer {
+    padding: 30px;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+}
